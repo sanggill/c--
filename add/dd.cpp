@@ -31,6 +31,7 @@ int main(){
     num=plus(5);
 
     cout<<num<<endl;
+    cout<<num<<endl;
     return 0;
 }
 
